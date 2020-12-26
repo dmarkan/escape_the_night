@@ -1,0 +1,105 @@
+body {
+	background:black;
+	font-size:30px;
+}
+
+pre {
+	color:white;
+	}
+
+img {
+	float:center;
+}
+
+#tekst_igraj {
+	color:white;
+	font-size:80px;
+	margin-top:-400px;
+	margin-left:20px;
+	color:white;
+	background:black;
+	
+}
+
+#tekst_prozor {
+	margin-top:-420px;
+	margin-left:-350px;
+	color:black;
+	background:white;
+	font-size:20px;
+	width:70px;
+}
+
+#tekst_slika {
+	margin-top:-140px;
+	margin-left:-800px;
+	color:white;
+	background:white;
+	font-size:20px;
+	width:70px;
+}
+
+#tekst_vrata {
+	margin-top:-5px;
+	margin-left:650px;
+	color:white;
+	background:white;
+	font-size:20px;
+	width:70px;
+}
+
+#tekst_fioke {
+	margin-top:90px;
+	margin-right:530px;
+	color:white;
+	background:white;
+	font-size:20px;
+	width:70px;
+}
+
+#tekst_krevet {
+	margin-top:70px;
+	margin-right:-200px;
+	color:white;
+	background:white;
+	font-size:20px;
+	width:70px;
+}
+
+#tekst_ispodkreveta {
+	margin-top:-400px;
+	color:white;
+	background:white;
+	font-size:20px;
+	width:70px;
+}
+
+#tekst_vestica {
+	margin-top:-400px;
+	color:white;
+	background:white;
+	font-size:20px;
+	width:70px;
+}
+
+#tekst_nazad {
+	margin-top:-350px;
+	margin-left:100px;
+	color:white;
+	font-size:50px;
+	width:150px;
+}
+
+a:hover {
+	background-color:white;
+	color:black;
+}
+
+a {
+	text-decoration:none;
+}
+
+p {
+	text-decoration:none;
+}
+
